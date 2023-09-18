@@ -1,0 +1,15 @@
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\bin\Debug\net6.0\trabalho - Conta com Heranca.exe
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\bin\Debug\net6.0\trabalho - Conta com Heranca.deps.json
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\bin\Debug\net6.0\trabalho - Conta com Heranca.runtimeconfig.json
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\bin\Debug\net6.0\trabalho - Conta com Heranca.dll
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\bin\Debug\net6.0\trabalho - Conta com Heranca.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.csproj.AssemblyReference.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.dll
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\refint\trabalho - Conta com Heranca.dll
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\trabalho - Conta com Heranca.genruntimeconfig.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\trabalho - Conta com Heranca\trabalho - Conta com Heranca\obj\Debug\net6.0\ref\trabalho - Conta com Heranca.dll
